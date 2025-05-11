@@ -28,3 +28,6 @@ arr.insert(1, 10)     # Inserts 10 at index 1
 arr.pop()             # Removes and returns the last item
 arr.remove(2)         # Removes the first occurrence of 2
 print(arr[0])         # Access first element
+
+**### Use Case:**
+Arrays are ideal for storing ordered data, like a list of students’ grades, or when you need fast random access and iteration over data.
