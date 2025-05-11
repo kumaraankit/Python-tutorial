@@ -213,3 +213,4 @@ print(d.pop())       # 1
 print(d.popleft())   # 2
 Use Case:
 Deques are perfect for problems where you need access from both ends, such as sliding window problems, palindrome checks, and undo-redo functionality.
+
