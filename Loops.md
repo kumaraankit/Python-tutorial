@@ -10,7 +10,7 @@ This guide covers both **fundamental** and **advanced** Python looping technique
 ```python
 for i in range(5):
     print(i)
-### 2. While Loop
+### 2. **While Loop**
 i = 0
 while i < 5:
     print(i)
